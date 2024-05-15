@@ -9,7 +9,7 @@ magic-box is a small simple javascript project
  - clone the repo
  - open the index
 
-## auther
+## author
  - [tahsin zidane](https://tahsinportfo.netlify.app/)
 
 ## license
