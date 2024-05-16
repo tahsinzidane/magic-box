@@ -45,7 +45,8 @@ body {
 
 
   #box{
-    position: fixed;
+    top: 70%;
+
   }
 
   #value {
