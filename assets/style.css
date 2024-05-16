@@ -54,3 +54,19 @@ body {
     top: 92%;
   }
 }
+
+
+@media screen and (max-width: 600px) {
+
+
+
+  #box{
+    top: 70%;
+
+  }
+
+  #value {
+    border-radius: 50px;
+    top: 92%;
+  }
+}
