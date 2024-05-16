@@ -1,14 +1,14 @@
-:root{
+:root {
   --bg-color: transparent;
 }
 
-body{
+body {
   background-color: #333;
   color: white;
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
-#box{
+#box {
   height: 250px;
   width: 300px;
   border: 1px solid white;
@@ -23,7 +23,7 @@ body{
   transform: translate(-50%, -50%);
 }
 
-#value{
+#value {
   height: 30px;
   width: 285px;
   margin-top: 20px;
@@ -40,3 +40,12 @@ body{
   transform: translate(-50%, -50%);
 }
 
+@media screen and (max-width: 480px) {
+
+
+
+  #value {
+    border-radius: 50px;
+    top: 92%;
+  }
+}
