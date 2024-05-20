@@ -37,6 +37,10 @@ val.addEventListener("input", () => {
     box.style.backgroundColor = "#93C572";
   }
 
+  if ("tsn" === val.value) {
+    box.style.backgroundColor = "#333";
+  }
+
 });
 
 //   #93C572

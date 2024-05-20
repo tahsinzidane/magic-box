@@ -12,6 +12,17 @@ magic-box is a small simple javascript project
 ## author
  - [tahsin zidane](https://tahsinportfo.netlify.app/)
 
+ ## version 2.0
+ new colors added, check it out
+ - cherry red 
+ - pista green
+ - beby pink
+ - lemon yellow
+ - bronze
+ - grape vino 
+ 
+ wanna see th new version of magic-box [click here](https://tahsinzidane.github.io/magic-box/magic-box_2.0/index.html)
+
 ## license
 
 - [mit license](./LICENSE)
