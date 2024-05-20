@@ -20,8 +20,8 @@ magic-box is a small simple javascript project
  - lemon yellow
  - bronze
  - grape vino 
- 
- wanna see th new version of magic-box [click here](https://tahsinzidane.github.io/magic-box/magic-box_2.0/index.html)
+
+ wanna see the new version of magic-box [click here](https://tahsinzidane.github.io/magic-box/magic-box_2.0/index.html), make sure that the first letter is always small
 
 ## license
 
